@@ -1,13 +1,8 @@
-# Recommended next steps:
-Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
-​
-### To preview and run the project on your device:
-1. Open project folder in Visual Studio Code
-2. Run  `npm install`  in the terminal
-3. For iOS device (only on MacOS)
-    1. Run `npx pod-install`
-    2. Then, run `npx react-native run-ios` to view on iOS simulator or follow the instructions [here](https://reactnative.dev/docs/running-on-device#running-your-app-on-ios-devices) to run on a physical device.
-4. For Android device.
-    1. Use Android Virtual Device in [Android Studio](https://developer.android.com/studio/index.html) or follow the instructions [here](https://reactnative.dev/docs/running-on-device#running-your-app-on-android-devices) to run on physical device.
-    2. Then, run `cd android && gradle wrapper && cd ..`
-    3. Then, run `npx react-native run-android`
+![Neon Ui cover](https://github.com/khushipatel04/Holographic-Neon--WatchFlix-App/assets/98440458/21930967-c575-4f5d-ae4b-c48184d4ddae)
+
+![1](https://github.com/khushipatel04/Holographic-Neon--WatchFlix-App/assets/98440458/459b3f4e-89c9-475e-8e87-2bae60fec656)
+![2](https://github.com/khushipatel04/Holographic-Neon--WatchFlix-App/assets/98440458/7ae92334-5f1f-42a6-aaf3-bd0d3005fba2)
+![3](https://github.com/khushipatel04/Holographic-Neon--WatchFlix-App/assets/98440458/a6fbc77b-b14e-41fe-aace-84ab4c39a5c3)
+![4](https://github.com/khushipatel04/Holographic-Neon--WatchFlix-App/assets/98440458/ebf777a8-5e5f-4bad-95e1-3bfc7f2f6afd)
+
+
